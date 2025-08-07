@@ -1,0 +1,9 @@
+.input-error {
+  border: 2px solid #ff4d4f;
+}
+.error-text {
+  color: #ff4d4f;
+  font-size: 0.9em;
+  margin-bottom: 8px;
+  display: block;
+}

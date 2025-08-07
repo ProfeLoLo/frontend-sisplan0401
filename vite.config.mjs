@@ -13,7 +13,7 @@ export default defineConfig({
     //  '/api': 'http://localhost:3000' // Redirige llamadas al backend local
 
         proxy: {
-      '/api': 'https://backend-poa.up.railway.app'
+      '/api': 'https://backend-sisplan0401-production.up.railway.app/'
     }
     //}
   },
